@@ -1,0 +1,6 @@
+{
+  "entries": [
+    { "uid": 1, "location": "37.8716:122.2727", "electricity": 4.328, "time": 21 },
+    { "uid": 2, "location": "37.8044:122.2711", "electricity": 2.113, "time": 17 }
+  ]
+}
